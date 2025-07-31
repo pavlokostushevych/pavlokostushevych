@@ -55,7 +55,7 @@ Specialization: Electronics – Electronic Instrumentation
 Designed and built a headphone amplifier by selecting components and creating the PCB layout using KiCad. After ordering the parts and manufacturing the PCB, I soldered and tested the device using a power supply, oscilloscope, and multimeter.
 
 ### ⏰ Nixie Tube Clock
-[View Project on GitHub]([https://github.com/YOUR_USERNAME/headphone-amplifier](https://github.com/pavlokostushevych/Nixie-Tube-Clock.git))
+[View Project on GitHub](https://github.com/pavlokostushevych/Nixie-Tube-Clock.git)
 Designed the schematic of a Nixie tube clock with KiCad, selecting components and analyzing vintage tubes and an RTC module. Programmed an Arduino Mini (C++/Arduino IDE), soldered the circuit on a prototype board, and tested its functionality.
 
 ### 🌈 RGB Components Detector (Team Project)
@@ -138,7 +138,7 @@ Specjalność: Elektronika – Aparatura Elektroniczna
 Zaprojektowałem i zbudowałem wzmacniacz słuchawkowy, dobierając komponenty i tworząc układ PCB w KiCadzie. Po zamówieniu części i wykonaniu PCB, polutowałem i przetestowałem urządzenie z użyciem zasilacza, oscyloskopu i multimetru.  
 
 ### ⏰ Zegar na lampach Nixie  
-[Zobacz projekt na GitHubie]([https://github.com/YOUR_USERNAME/Nixie-Clock](https://github.com/pavlokostushevych/Nixie-Tube-Clock.git))  
+[Zobacz projekt na GitHubie](https://github.com/pavlokostushevych/Nixie-Tube-Clock.git)  
 Zaprojektowałem schemat zegara z lampami Nixie w programie KiCad, dobierając komponenty i analizując działanie lamp oraz modułu RTC. Zaprogramowałem Arduino Mini (C++/Arduino IDE), zmontowałem układ na płytce prototypowej i przetestowałem jego działanie.  
 
 ### 🌈 Detektor koloru RGB (Projekt zespołowy)  
