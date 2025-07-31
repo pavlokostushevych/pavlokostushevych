@@ -1,4 +1,4 @@
-📄 Wersja polska poniżej – [Przejdź do wersji PL](#-pl-czesc-nazywam-sie-pavlo-kostushevych)
+📄 Wersja polska poniżej – [Przejdź do wersji PL](#-czesc-nazywam-sie-pavlo-kostushevych)
 
 # 👋 Hi, I'm Pavlo Kostushevych
 
@@ -82,7 +82,7 @@ Designed and built a 4 DOF articulated robotic arm with kinematics analysis, con
 
 ---
 
-## 👋PL Cześć, nazywam się Pavlo Kostushevych
+## Cześć, nazywam się Pavlo Kostushevych
 
 🎓 Inżynier elektronik | Programista C++ i Pythona | Entuzjasta systemów wbudowanych
 
