@@ -75,5 +75,5 @@ Designed and built a 4 DOF articulated robotic arm with kinematics analysis, con
 ## 📫 Contact
 
 - 📍 Based in Poland  
-- 💼 [LinkedIn](www.linkedin.com/in/pavlo-kostushevych-ab364b376)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pavlo-kostushevych-ab364b376/)  
 - 📧 pavlo.kostushevych@gmail.com
