@@ -49,7 +49,7 @@ Specialization: Electronics – Electronic Instrumentation
 ## 📂 Projects
 
 ### 🎧 Headphone Amplifier
-[View Project on GitHub](https://github.com/YOUR_USERNAME/headphone-amplifier)
+[View Project on GitHub](https://github.com/pavlokostushevych/Headphone-Amplifier)
 Designed and built a headphone amplifier by selecting components and creating the PCB layout using KiCad. After ordering the parts and manufacturing the PCB, I soldered and tested the device using a power supply, oscilloscope, and multimeter.
 
 ### ⏰ Nixie Tube Clock
