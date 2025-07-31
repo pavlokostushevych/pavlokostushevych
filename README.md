@@ -1,6 +1,8 @@
+📄 Wersja polska poniżej – [Przejdź do wersji PL](#-pl-czesc-nazywam-sie-pavlo-kostushevych)
+
 # 👋 Hi, I'm Pavlo Kostushevych
 
-🎓 Junior Electronics Engineer | C++ & Python Developer | Embedded Systems Enthusiast
+🎓 Electronics Engineer | C++ & Python Developer | Embedded Systems Enthusiast
 
 ---
 
@@ -77,3 +79,10 @@ Designed and built a 4 DOF articulated robotic arm with kinematics analysis, con
 - 📍 Based in Poland  
 - 💼 [LinkedIn](https://www.linkedin.com/in/pavlo-kostushevych-ab364b376/)  
 - 📧 pavlo.kostushevych@gmail.com
+
+---
+
+## 👋PL Cześć, nazywam się Pavlo Kostushevych
+
+🎓 Inżynier elektronik | Programista C++ i Pythona | Entuzjasta systemów wbudowanych
+
