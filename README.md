@@ -83,7 +83,7 @@ Designed and built a 4 DOF articulated robotic arm with kinematics analysis, con
 ---
 ## PL
 
-## Cześć, nazywam się Pavlo Kostushevych
+## 👋 Cześć, nazywam się Pavlo Kostushevych
 
 🎓 Inżynier elektronik | Programista C++ i Pythona | Entuzjasta systemów wbudowanych
 
