@@ -59,7 +59,7 @@ Designed and built a headphone amplifier by selecting components and creating th
 Designed the schematic of a Nixie tube clock with KiCad, selecting components and analyzing vintage tubes and an RTC module. Programmed an Arduino Mini (C++/Arduino IDE), soldered the circuit on a prototype board, and tested its functionality.
 
 ### 🌈 RGB Components Detector (Team Project)
-[View Project on GitHub](https://github.com/YOUR_USERNAME/headphone-amplifier)
+[View Project on GitHub](https://github.com/pavlokostushevych/RGB-Components-Detector.git)
 Designed and constructed an RGB color detector, including schematic, component selection, and programming (C++/Arduino IDE).  
 **My role:** component selection, C++ programming, documentation, and hardware support.
 
@@ -142,7 +142,7 @@ Zaprojektowałem i zbudowałem wzmacniacz słuchawkowy, dobierając komponenty i
 Zaprojektowałem schemat zegara z lampami Nixie w programie KiCad, dobierając komponenty i analizując działanie lamp oraz modułu RTC. Zaprogramowałem Arduino Mini (C++/Arduino IDE), zmontowałem układ na płytce prototypowej i przetestowałem jego działanie.  
 
 ### 🌈 Detektor koloru RGB (Projekt zespołowy)  
-[Zobacz projekt na GitHubie](https://github.com/YOUR_USERNAME/RGB-Detector)  
+[Zobacz projekt na GitHubie](https://github.com/pavlokostushevych/RGB-Components-Detector.git) 
 Zaprojektowaliśmy i zbudowaliśmy detektor koloru RGB, w tym schemat, wybór komponentów i programowanie w C++ (Arduino IDE).  
 **Moja rola:** wybór komponentów, programowanie, dokumentacja i wsparcie sprzętowe.
 
