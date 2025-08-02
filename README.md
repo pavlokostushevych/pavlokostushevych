@@ -146,7 +146,7 @@ Zaprojektowałem schemat zegara z lampami Nixie w programie KiCad, dobierając k
 Zaprojektowaliśmy i zbudowaliśmy detektor koloru RGB, w tym schemat, wybór komponentów i programowanie w C++ (Arduino IDE).  
 **Moja rola:** wybór komponentów, programowanie, dokumentacja i wsparcie sprzętowe.
 
-### 📇 Książka adresowa (Python) (projekt zespołowy w 7 dni)  
+### 📇 Książka adresowa (projekt zespołowy w 7 dni)  
 [Zobacz projekt na GitHubie](https://github.com/YOUR_USERNAME/Address-Book)  
 Projekt zespołowy tworzenia książki adresowej w Pythonie (Visual Studio IDE).  
 **Moja rola:** Scrum Master — prowadzenie spotkań, zarządzanie zadaniami, rozwój, testy i zdalna współpraca (Slack, Zoom, Trello). Kontrola wersji przez Git i GitHub.
