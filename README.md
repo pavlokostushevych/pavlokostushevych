@@ -63,7 +63,7 @@ Designed the schematic of a Nixie tube clock with KiCad, selecting components an
 Designed and constructed an RGB color detector, including schematic, component selection, and programming (C++/Arduino IDE).  
 **My role:** component selection, C++ programming, documentation, and hardware support.
 
-### 📇 Address Book Application (Python) (Speedrun Team Project)
+### 📇 Address Book Application (Speedrun Team Project)
 [View Project on GitHub](https://github.com/YOUR_USERNAME/headphone-amplifier)
 A 7-day team project developing an address book app in Python (Visual Studio IDE).  
 **My role:** Scrum Master — leading meetings, task management, development, testing, and remote coordination (Slack, Zoom, Trello). Used Git/GitHub for version control.
