@@ -21,7 +21,6 @@ I have carried out both **team** and **individual projects**, developing skills 
 ## ⚙️ Technical Skills
 
 - **Programming:** C++, Python  
-- **Operating Systems:** Linux  
 - **Embedded Systems:** AVR microcontrollers, Arduino  
 - **Version Control:** Git, GitHub  
 - **Measurement & Instrumentation:** Multimeter, Oscilloscope, Function Generator, Power Supplies  
@@ -104,7 +103,6 @@ Realizowałem zarówno **zespołowe**, jak i **indywidualne projekty**, rozwijaj
 ## ⚙️ Umiejętności techniczne
 
 - **Programowanie:** C++, Python  
-- **Systemy operacyjne:** Linux  
 - **Systemy wbudowane:** Mikrokontrolery AVR, Arduino  
 - **Kontrola wersji:** Git, GitHub  
 - **Pomiary i aparatura:** Multimetr, Oscyloskop, Generator funkcyjny, Zasilacze  
