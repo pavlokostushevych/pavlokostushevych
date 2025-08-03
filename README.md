@@ -60,7 +60,7 @@ Designed the schematic of a Nixie tube clock with KiCad, selecting components an
 ### 🌈 RGB Components Detector (Team Project)
 [View Project on GitHub](https://github.com/pavlokostushevych/RGB-Components-Detector.git)
 Designed and constructed an RGB color detector, including schematic, component selection, and programming (C++/Arduino IDE).  
-**My role:** component selection, C++ programming, documentation, and hardware support.
+**My role:** component selection, C++ (Arduino) programming, documentation, and hardware support.
 
 ### 📇 Address Book Application (Speedrun Team Project)
 (Repository in progress)
@@ -142,9 +142,9 @@ Zaprojektowałem schemat zegara z lampami Nixie w programie KiCad, dobierając k
 ### 🌈 Detektor koloru RGB (Projekt zespołowy)  
 [Zobacz projekt na GitHubie](https://github.com/pavlokostushevych/RGB-Components-Detector.git) 
 Zaprojektowaliśmy i zbudowaliśmy detektor koloru RGB, w tym schemat, wybór komponentów i programowanie w C++ (Arduino IDE).  
-**Moja rola:** wybór komponentów, programowanie, dokumentacja i wsparcie sprzętowe.
+**Moja rola:** wybór komponentów, C++ (Arduino) programowanie, dokumentacja i wsparcie sprzętowe.
 
-### 📇 Książka adresowa (projekt zespołowy w 7 dni)  
+### 📇 Książka adresowa (projekt zespołowy w 8 dni)  
 (Repository in progress)
 Projekt zespołowy tworzenia książki adresowej w Pythonie (Visual Studio IDE).  
 **Moja rola:** Scrum Master — prowadzenie spotkań, zarządzanie zadaniami, rozwój, testy i zdalna współpraca (Slack, Zoom, Trello). Kontrola wersji przez Git i GitHub.
