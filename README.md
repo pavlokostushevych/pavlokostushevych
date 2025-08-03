@@ -41,7 +41,7 @@ Specialization: Electronics – Electronic Instrumentation
 
 ## 🗣️ Languages
 
-- **English:** Highly proficient  
+- **English:** Proficient  
 - **Ukrainian:** Native  
 - **Polish:** Highly proficient
 
@@ -123,7 +123,7 @@ Specjalność: Elektronika – Aparatura Elektroniczna
 
 ## 🗣️ Języki
 
-- **Angielski:** Biegły  
+- **Angielski:** Zaawansowany  
 - **Ukraiński:** Język ojczysty  
 - **Polski:** Biegły  
 
