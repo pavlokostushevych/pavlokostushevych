@@ -63,12 +63,12 @@ Designed and constructed an RGB color detector, including schematic, component s
 **My role:** component selection, C++ programming, documentation, and hardware support.
 
 ### 📇 Address Book Application (Speedrun Team Project)
-
+(Repository in progress)
 A 7-day team project developing an address book app in Python (Visual Studio IDE).  
 **My role:** Scrum Master — leading meetings, task management, development, testing, and remote coordination (Slack, Zoom, Trello). Used Git/GitHub for version control.
 
 ### 🤖 Robotic Arm Project (Diploma Thesis)
-
+(Repository in progress)
 Designed and built a 4 DOF articulated robotic arm with kinematics analysis, control algorithms (C++/Arduino IDE), and position error compensation. Included mechanical construction, electronics integration, power supply setup, and two control interfaces (computer and mobile via Bluetooth) using Visual Studio and .NET Framework.
 
 ---
@@ -145,12 +145,12 @@ Zaprojektowaliśmy i zbudowaliśmy detektor koloru RGB, w tym schemat, wybór ko
 **Moja rola:** wybór komponentów, programowanie, dokumentacja i wsparcie sprzętowe.
 
 ### 📇 Książka adresowa (projekt zespołowy w 7 dni)  
-
+(Repository in progress)
 Projekt zespołowy tworzenia książki adresowej w Pythonie (Visual Studio IDE).  
 **Moja rola:** Scrum Master — prowadzenie spotkań, zarządzanie zadaniami, rozwój, testy i zdalna współpraca (Slack, Zoom, Trello). Kontrola wersji przez Git i GitHub.
 
 ### 🤖 Projekt ramienia robotycznego (Praca dyplomowa)  
-
+(Repository in progress)
 Zaprojektowałem i zbudowałem ramię robotyczne 4 DOF z analizą kinematyki, algorytmami sterowania (C++/Arduino IDE) oraz kompensacją błędów pozycjonowania. Projekt obejmował konstrukcję mechaniczną, integrację elektroniki, konfigurację zasilania i dwa interfejsy sterujące (komputerowy i mobilny przez Bluetooth) z użyciem Visual Studio i .NET Framework.
 
 ---
