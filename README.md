@@ -63,7 +63,7 @@ Designed and constructed an RGB color detector, including schematic, component s
 
 ### 📇 Personal Assistant (Team Project) [View Project on GitHub](https://github.com/pavlokostushevych/Personal-Assistant-Team-Project)
 
-A 8-day team project developing an address book app in Python (Visual Studio IDE). **My role:** Scrum Master — leading meetings, task management, development, testing, and remote coordination (Slack, Zoom, Trello). Used Git/GitHub for version control.
+A 8-day team project developing an address book app in Python (Visual Studio IDE). **My role:** Scrum Master — leading meetings, task management, development, testing, and remote coordination (Slack, Zoom, Teams, Trello). Used Git/GitHub for version control.
 
 ### 🤖 Robotic Arm Project (Diploma Thesis)
 (Repository in progress)
@@ -142,10 +142,9 @@ Zaprojektowałem schemat zegara z lampami Nixie w programie KiCad, dobierając k
 Zaprojektowaliśmy i zbudowaliśmy detektor koloru RGB, w tym schemat, wybór komponentów i programowanie w C++ (Arduino IDE).  
 **Moja rola:** wybór komponentów, C++ (Arduino) programowanie, dokumentacja i wsparcie sprzętowe.
 
-### 📇 Książka adresowa (projekt zespołowy w 8 dni)  
-(Repository in progress)
-Projekt zespołowy tworzenia książki adresowej w Pythonie (Visual Studio IDE).  
-**Moja rola:** Scrum Master — prowadzenie spotkań, zarządzanie zadaniami, rozwój, testy i zdalna współpraca (Slack, Zoom, Trello). Kontrola wersji przez Git i GitHub.
+### 📇 Personal Assistant (Team Project) [View Project on GitHub](https://github.com/pavlokostushevych/Personal-Assistant-Team-Project)
+
+A 8-day team project developing an address book app in Python (Visual Studio IDE). **My role:** Scrum Master — leading meetings, task management, development, testing, and remote coordination (Slack, Zoom, Teams, Trello). Used Git/GitHub for version control.
 
 ### 🤖 Projekt ramienia robotycznego (Praca dyplomowa)  
 (Repository in progress)
