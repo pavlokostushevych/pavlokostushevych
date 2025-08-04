@@ -129,22 +129,21 @@ Specjalność: Elektronika – Aparatura Elektroniczna
 
 ## 📂 Projekty
 
-### 🎧 Wzmacniacz słuchawkowy  
-[Zobacz projekt na GitHubie](https://github.com/pavlokostushevych/Headphone-Amplifier)  
+### 🎧 Wzmacniacz słuchawkowy [Zobacz projekt na GitHubie](https://github.com/pavlokostushevych/Headphone-Amplifier)  
+
 Zaprojektowałem i zbudowałem wzmacniacz słuchawkowy, dobierając komponenty i tworząc układ PCB w KiCadzie. Po zamówieniu części i wykonaniu PCB, polutowałem i przetestowałem urządzenie z użyciem zasilacza, oscyloskopu i multimetru.  
 
-### ⏰ Zegar na lampach Nixie  
-[Zobacz projekt na GitHubie](https://github.com/pavlokostushevych/Nixie-Tube-Clock.git)  
+### ⏰ Zegar na lampach Nixie [Zobacz projekt na GitHubie](https://github.com/pavlokostushevych/Nixie-Tube-Clock.git)  
+
 Zaprojektowałem schemat zegara z lampami Nixie w programie KiCad, dobierając komponenty i analizując działanie lamp oraz modułu RTC. Zaprogramowałem Arduino Mini (C++/Arduino IDE), zmontowałem układ na płytce prototypowej i przetestowałem jego działanie.  
 
-### 🌈 Detektor koloru RGB (Projekt zespołowy)  
-[Zobacz projekt na GitHubie](https://github.com/pavlokostushevych/RGB-Components-Detector.git) 
-Zaprojektowaliśmy i zbudowaliśmy detektor koloru RGB, w tym schemat, wybór komponentów i programowanie w C++ (Arduino IDE).  
-**Moja rola:** wybór komponentów, C++ (Arduino) programowanie, dokumentacja i wsparcie sprzętowe.
+### 🌈 Detektor koloru RGB (Projekt zespołowy) [Zobacz projekt na GitHubie](https://github.com/pavlokostushevych/RGB-Components-Detector.git) 
 
-### 📇 Personal Assistant (Team Project) [View Project on GitHub](https://github.com/pavlokostushevych/Personal-Assistant-Team-Project)
+Zaprojektowaliśmy i zbudowaliśmy detektor koloru RGB, w tym schemat, wybór komponentów i programowanie w C++ (Arduino IDE). **Moja rola:** wybór komponentów, C++ (Arduino) programowanie, dokumentacja i wsparcie sprzętowe.
 
-A 8-day team project developing an address book app in Python (Visual Studio IDE). **My role:** Scrum Master — leading meetings, task management, development, testing, and remote coordination (Slack, Zoom, Teams, Trello). Used Git/GitHub for version control.
+### 📇 Personal Assistant (Projekt zespołowy) [Zobacz projekt na GitHubie](https://github.com/pavlokostushevych/Personal-Assistant-Team-Project)
+
+8-dniowy projekt zespołowy, którego celem było stworzenie aplikacji książki adresowej w Pythonie (środowisko Visual Studio IDE). **Moja rola:** Scrum Master — prowadzenie spotkań, zarządzanie zadaniami, rozwój, testowanie oraz zdalna koordynacja pracy zespołu (Slack, Zoom, Teams, Trello). Do kontroli wersji wykorzystano Git/GitHub.
 
 ### 🤖 Projekt ramienia robotycznego (Praca dyplomowa)  
 (Repository in progress)
