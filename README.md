@@ -59,13 +59,11 @@ Designed the schematic of a Nixie tube clock with KiCad, selecting components an
 
 ### 🌈 RGB Components Detector (Team Project)
 [View Project on GitHub](https://github.com/pavlokostushevych/RGB-Components-Detector.git)
-Designed and constructed an RGB color detector, including schematic, component selection, and programming (C++/Arduino IDE).  
-**My role:** component selection, C++ (Arduino) programming, documentation, and hardware support.
+Designed and constructed an RGB color detector, including schematic, component selection, and programming (C++/Arduino IDE). **My role:** component selection, C++ (Arduino) programming, documentation, and hardware support.
 
 ### 📇 Personal Assistant (Team Project)
 [View Project on GitHub](https://github.com/pavlokostushevych/Personal-Assistant-Team-Project)
-A 8-day team project developing an address book app in Python (Visual Studio IDE).
-**My role:** Scrum Master — leading meetings, task management, development, testing, and remote coordination (Slack, Zoom, Trello). Used Git/GitHub for version control.
+A 8-day team project developing an address book app in Python (Visual Studio IDE). **My role:** Scrum Master — leading meetings, task management, development, testing, and remote coordination (Slack, Zoom, Trello). Used Git/GitHub for version control.
 
 ### 🤖 Robotic Arm Project (Diploma Thesis)
 (Repository in progress)
