@@ -49,20 +49,20 @@ Specialization: Electronics – Electronic Instrumentation
 
 ## 📂 Projects
 
-### 🎧 Headphone Amplifier
-[View Project on GitHub](https://github.com/pavlokostushevych/Headphone-Amplifier)
+### 🎧 Headphone Amplifier [View Project on GitHub](https://github.com/pavlokostushevych/Headphone-Amplifier)
+
 Designed and built a headphone amplifier by selecting components and creating the PCB layout using KiCad. After ordering the parts and manufacturing the PCB, I soldered and tested the device using a power supply, oscilloscope, and multimeter.
 
-### ⏰ Nixie Tube Clock
-[View Project on GitHub](https://github.com/pavlokostushevych/Nixie-Tube-Clock.git)
+### ⏰ Nixie Tube Clock [View Project on GitHub](https://github.com/pavlokostushevych/Nixie-Tube-Clock.git)
+
 Designed the schematic of a Nixie tube clock with KiCad, selecting components and analyzing vintage tubes and an RTC module. Programmed an Arduino Mini (C++/Arduino IDE), soldered the circuit on a prototype board, and tested its functionality.
 
-### 🌈 RGB Components Detector (Team Project)
-[View Project on GitHub](https://github.com/pavlokostushevych/RGB-Components-Detector.git)
+### 🌈 RGB Components Detector (Team Project) [View Project on GitHub](https://github.com/pavlokostushevych/RGB-Components-Detector.git)
+
 Designed and constructed an RGB color detector, including schematic, component selection, and programming (C++/Arduino IDE). **My role:** component selection, C++ (Arduino) programming, documentation, and hardware support.
 
-### 📇 Personal Assistant (Team Project)
-[View Project on GitHub](https://github.com/pavlokostushevych/Personal-Assistant-Team-Project)
+### 📇 Personal Assistant (Team Project) [View Project on GitHub](https://github.com/pavlokostushevych/Personal-Assistant-Team-Project)
+
 A 8-day team project developing an address book app in Python (Visual Studio IDE). **My role:** Scrum Master — leading meetings, task management, development, testing, and remote coordination (Slack, Zoom, Trello). Used Git/GitHub for version control.
 
 ### 🤖 Robotic Arm Project (Diploma Thesis)
