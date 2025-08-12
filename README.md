@@ -63,7 +63,7 @@ Designed and constructed an RGB color detector, including schematic, component s
 
 ### 📇 Personal Assistant (Team Project) [View Project on GitHub](https://github.com/pavlokostushevych/Personal-Assistant-Team-Project)
 
-A 8-day team project developing an address book app in Python (Visual Studio IDE). **My role:** Scrum Master — leading meetings, task management, development, testing, and remote coordination (Slack, Zoom, Teams, Trello). Used Git/GitHub for version control.
+A 8-day team project developing an Personal Assistant app in Python (Visual Studio IDE). **My role:** Scrum Master — leading meetings, task management, development, testing, and remote coordination (Slack, Zoom, Teams, Trello). Used Git/GitHub for version control.
 
 ### 🤖 Robotic Arm Project [View Project on GitHub](https://github.com/pavlokostushevych/Robotic-Arm-Project/tree/main)
 
@@ -141,9 +141,9 @@ Zaprojektowałem schemat zegara z lampami Nixie w programie KiCad, dobierając k
 
 Zaprojektowaliśmy i zbudowaliśmy detektor koloru RGB, w tym schemat, wybór komponentów i programowanie w C++ (Arduino IDE). **Moja rola:** wybór komponentów, C++ (Arduino) programowanie, dokumentacja i wsparcie sprzętowe.
 
-### 📇 Personal Assistant (Projekt zespołowy) [Zobacz projekt na GitHubie](https://github.com/pavlokostushevych/Personal-Assistant-Team-Project)
+### 📇 Aplikacja „Personal Assistant” (Projekt zespołowy) [Zobacz projekt na GitHubie](https://github.com/pavlokostushevych/Personal-Assistant-Team-Project)
 
-8-dniowy projekt zespołowy, którego celem było stworzenie aplikacji książki adresowej w Pythonie (środowisko Visual Studio IDE). **Moja rola:** Scrum Master — prowadzenie spotkań, zarządzanie zadaniami, rozwój, testowanie oraz zdalna koordynacja pracy zespołu (Slack, Zoom, Teams, Trello). Do kontroli wersji wykorzystano Git/GitHub.
+8-dniowy projekt zespołowy, którego celem było stworzenie aplikacji "Personal Assistant" w Pythonie (środowisko Visual Studio IDE). **Moja rola:** Scrum Master — prowadzenie spotkań, zarządzanie zadaniami, rozwój, testowanie oraz zdalna koordynacja pracy zespołu (Slack, Zoom, Teams, Trello). Do kontroli wersji wykorzystano Git/GitHub.
 
 ### 🤖 Projekt ramienia robotycznego [Zobacz projekt na GitHubie](https://github.com/pavlokostushevych/Robotic-Arm-Project/tree/main)
 
